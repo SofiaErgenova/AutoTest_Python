@@ -1,0 +1,4 @@
+login: "SemDevTools"
+password: "860f2c1b77"
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_posts: "https://test-stand.gb.ru/api/posts"
