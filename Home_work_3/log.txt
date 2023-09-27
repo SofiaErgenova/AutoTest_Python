@@ -1,0 +1,20 @@
+2023-09-27 11:51:07 INFO ====== WebDriver manager ======
+2023-09-27 11:51:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 11:51:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 11:51:08 INFO There is no [mac64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+2023-09-27 11:51:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 11:51:08 INFO WebDriver version 117.0.5938.92 selected
+2023-09-27 11:51:08 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+2023-09-27 11:51:08 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+2023-09-27 11:51:09 INFO Driver downloading response is 200
+2023-09-27 11:51:10 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 11:51:10 INFO Driver has been saved in cache [/Users/sona/.wdm/drivers/chromedriver/mac64/117.0.5938.92]
+2023-09-27 11:51:16 INFO Test 4 Starting
+2023-09-27 11:51:17 INFO Send User_1_Login to element//*[@id="login"]/div[1]/label/input
+2023-09-27 11:51:18 INFO Send 6f831d56c2 to element//*[@id="login"]/div[2]/label/input
+2023-09-27 11:51:18 INFO Click login button
+2023-09-27 11:51:18 INFO Click Contact
+2023-09-27 11:51:20 INFO Send user_1 to element//*[@id="contact"]/div[1]/label/input
+2023-09-27 11:51:20 INFO Send user@mail.ru to element//*[@id="contact"]/div[2]/label/input
+2023-09-27 11:51:20 INFO Send hello to element//*[@id="contact"]/div[3]/label/span/textarea
+2023-09-27 11:51:23 INFO Click button Contact Us
