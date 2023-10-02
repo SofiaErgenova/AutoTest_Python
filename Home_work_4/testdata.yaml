@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+login: User_1_Login
+password: 6f831d56c2
+title: Meaning of Life
+
+name: user_1
+content: hello
+email: user@mail.ru
+
+fromaddr_report: bunich@mail.ru
+toaddr_report: bunich@mail.ru
+mail_password:
+
+#login: "SemDevTools"
+#password: "860f2c1b77"
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_posts: "https://test-stand.gb.ru/api/posts"
+
